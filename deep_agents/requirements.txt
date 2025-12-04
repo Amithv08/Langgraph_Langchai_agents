@@ -1,0 +1,13 @@
+langchain-openai>=0.0.208
+langchain-core>=0.0.208
+langchain-community>=0.0.208
+langchain-groq>=0.0.208
+python-dotenv
+langgraph>=0.2.56
+pydantic>=1.10.12
+pydantic-settings>=1.0.5
+httpx>=0.24.1
+aiohttp>=3.8.4
+asyncio
+langchain-tavily
+langgraph-sdk>=0.1.61
